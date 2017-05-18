@@ -1,0 +1,1 @@
+读取的文件为test下的example.c- 并将结果存到test下的myresult.txt中
